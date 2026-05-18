@@ -1,0 +1,2 @@
+# Project dependency manifest definitions
+# Core modules utilize standardized built-in Python environments (re, json, unittest, os, sys)
